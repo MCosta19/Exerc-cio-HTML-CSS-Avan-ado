@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+    height: 100vh;
+}
+
+.menus{
+    display: flex;
+    justify-self: flex-end;
+}
